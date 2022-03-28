@@ -17,7 +17,7 @@ const bgTiede = 'linear-gradient(120deg, #f6d365 0%, #fda085 100%)';
 const bgChaud = 'linear-gradient(to right, #fa709a 0%, #fee140 100%)';
 const bgBrulant = 'linear-gradient(to top, #ff0844 0%, #ffb199 100%)';
 
-const bgWin = 'linear-gradient(to right, #92fe9d 0%, #00c9ff 100%)';
+const bgWin = 'linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%)';
 const bgLoose = 'linear-gradient(-20deg, #dcb0ed 0%, #99c99c 100%)';
 
 // Jouer :
